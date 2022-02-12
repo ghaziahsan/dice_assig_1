@@ -1,0 +1,11 @@
+3 methods of git reset?
+
+
+there are three methods for reseting the gid.
+
+-Soft : works with current commited History only
+-Mixed : works with current commited history and staged snapshot 
+-Hard : works with working directory,stagged snapshot and current commited history.
+
+
+

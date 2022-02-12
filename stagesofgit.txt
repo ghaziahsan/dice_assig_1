@@ -1,0 +1,9 @@
+Stages of Git
+
+there are three Stages of Git
+
+-Modified
+-Staged
+-Committed
+
+

@@ -1,0 +1,7 @@
+What are the benefits of Cloud Computing
+
+On-demand computing resources
+Don’t have to buy resources
+Elastic resources - Scale up or down quickly and easily to meet demand
+Pay for what you use only
+Self service - All the IT resources you need with self-service access
